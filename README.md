@@ -8,7 +8,7 @@
 
 ## 🌎 Sobre mim  
 💻 Profissional em transição de carreira, buscando novos desafios na área de **Tecnologia da Informação (TI)**.  
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Uninove / Programa Desenvolva+ ADA TECH / MERCADO LIVRE
+🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Uninove 
 🔍 Interesse especial em **Computação em Nuvem, Inteligência Artificial, Desenvolvimento Full Stack e Automação**.  
 📍 São Paulo, SP Brasil.  
 
