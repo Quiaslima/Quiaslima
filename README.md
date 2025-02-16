@@ -37,10 +37,10 @@
 ## 💼 Experiência Profissional  
 
 ### **Promotor de Vendas | Wickbold & Nosso Pão** *(05/2012 - 07/2022)*  
-- Promoção de produtos Wickbold em pontos de venda.  
-- Controle de estoque, organização de displays e elaboração de relatórios.  
-- Atendimento ao cliente, fornecendo informações detalhadas sobre produtos.  
-- Emissão de pedidos de vendas conforme demanda.  
+🔹 Promoção de produtos Wickbold em pontos de venda.  
+🔹 Controle de estoque, organização de displays e elaboração de relatórios.  
+🔹 Atendimento ao cliente, fornecendo informações detalhadas sobre produtos.  
+🔹 Emissão de pedidos de vendas conforme demanda.  
 
 ---
 
