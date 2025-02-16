@@ -58,12 +58,12 @@
 
 ## 🎯 Atividades e Interesses  
 
-- 🎬 Assistir séries  
-- 📚 Estudar  
-- 🚶 Caminhar  
-- 💪 Academia  
-- 🎮 Jogar Video Game  
-- 🎵 Músico  
+🔹 🎬 Assistir séries  
+🔹 📚 Estudar  
+🔹 🚶 Caminhar  
+🔹 💪 Academia  
+🔹 🎮 Jogar Video Game  
+🔹 🎵 Músico  
 
 ---
 
