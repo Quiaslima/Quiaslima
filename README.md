@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Ezequias Lima da Silva!</h1>
+<h1 align="center">👋 Olá, eu sou Ezequias Lima!</h1>
 
 <p align="center">
   � Em transição para a área de TI | 💻 Estudante de Análise e Desenvolvimento de Sistemas | ☁️ Aprendendo Computação em Nuvem e IA | 🛒 Programa Desenvolva+ ADA TECH / MERCADO LIVRE
