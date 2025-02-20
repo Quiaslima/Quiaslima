@@ -1,20 +1,4 @@
-<h1 align="center" style="font-family: Arial, sans-serif; color: #333; animation: bounce 2s infinite;">
-  👋 Olá, eu sou Ezequias Lima da Silva!
-</h1>
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-20px);
-    }
-    60% {
-      transform: translateY(-10px);
-    }
-  }
-</style>
+<h1 align="center">👋 Olá, eu sou Ezequias Lima da Silva!</h1>
 
 <p align="center">
   🚀 Em transição para a área de TI | 💻 Estudante de Análise e Desenvolvimento de Sistemas | ☁️ Aprendendo Computação em Nuvem e IA | 🛒 Programa Desenvolva+ ADA TECH / MERCADO LIVRE
